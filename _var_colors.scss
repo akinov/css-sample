@@ -1,0 +1,37 @@
+// 色の定義
+
+// 汎用色
+$tds-color-blue: #0044cc;
+$tds-color-dark-green: #3c7818;
+$tds-color-green: #7fc05d;
+$tds-color-light-green: #a1ef78;
+$tds-color-orange: #f97b0b;
+$tds-color-red: #f53636;
+$tds-color-red-lighten: lighten($tds-color-red, 35%);
+$tds-color-white: #fff;
+$tds-color-gray: #bbb;
+
+// テキスト色
+$tds-color-txt-dark: #333;
+$tds-color-txt-medium: #777;
+$tds-color-txt-light: #bbb;
+$tds-color-txt-link: #0044cc;
+$tds-color-txt-link-dark: #508dfd;
+$tds-color-txt-green: #3c7818;
+
+// アイコン色
+$tds-color-ico-dark: #333;
+$tds-color-ico-medium: #777;
+$tds-color-ico-light: #bbb;
+
+// ボーダー色
+$tds-color-bdr-dark: #777;
+$tds-color-bdr-light: #e9e9e9;
+$tds-color-bdr-green: #8dbe69;
+$tds-color-bdr-gray: #f0f0f0;
+
+// 背景色
+$tds-color-bg-dark: #333;
+$tds-color-bg-medium: #bbb;
+$tds-color-bg-light: #f0f0f0;
+$tds-color-bg-thin-green: #eff7e9;

@@ -1,0 +1,67 @@
+$font-family: 'Arial', 'Hiragino Kaku Gothic ProN', 'Hiragino Kaku Gothic',
+  'メイリオ', 'sans-serif';
+
+// フォントの定義
+@mixin tds-font-24 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
+@mixin tds-font-20 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
+@mixin tds-font-18 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
+@mixin tds-font-16 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+@mixin tds-font-14 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
+@mixin tds-font-13 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
+@mixin tds-font-12 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+@mixin tds-font-10 {
+  color: $tds-color-txt-dark;
+  font-family: $font-family;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.5;
+}
